@@ -16,6 +16,7 @@ namespace Tridle_Executor
     public partial class EasyMenu : KryptonForm
     {
         ExploitAPI module = new ExploitAPI();
+        WebClient wb = new WebClient();
         public EasyMenu()
         {
             InitializeComponent();
@@ -23,21 +24,18 @@ namespace Tridle_Executor
 
         private void btn_SpeedHack_Click(object sender, EventArgs e)
         {
-            WebClient wb = new WebClient();
             string Script = wb.DownloadString("https://pastebin.com/raw/YUSMCRx2");
             module.SendLuaScript(Script);
         }
 
         private void btn_Jumpboost_Click(object sender, EventArgs e)
         {
-            WebClient wb = new WebClient();
             string Script = wb.DownloadString("https://pastebin.com/raw/4SWqkS4j");
             module.SendLuaScript(Script);
         }
 
         private void btn_Fly_Click(object sender, EventArgs e)
         {
-            WebClient wb = new WebClient();
             string Script = wb.DownloadString("https://pastebin.com/raw/9JuZt2Ga");
             module.SendLuaScript(Script);
         }
@@ -54,7 +52,6 @@ namespace Tridle_Executor
 
         private void btn_DexExplorer_Click(object sender, EventArgs e)
         {
-            WebClient wb = new WebClient();
             string Script = wb.DownloadString("https://pastebin.com/raw/eWq49YD3");
             module.SendLuaScript(Script);
         }
