@@ -1,0 +1,25 @@
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\Tridle Executor.exe.config
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\Tridle Executor.exe
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\Tridle Executor.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.csproj.AssemblyReference.cache
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle_Executor.Properties.Resources.resources
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.csproj.GenerateResource.cache
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.csproj.CoreCompileInputs.cache
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.exe
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle_Executor.Injector.resources
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle Executor.csproj.CopyComplete
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\bin\Debug\WeAreDevs_API.dll
+C:\Users\jonny\source\repos\Tridle Executor\Tridle Executor\obj\Debug\Tridle_Executor.EasyMenu.resources

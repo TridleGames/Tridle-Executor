@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a11ebae4-2294-4b12-ab85-53ea1e677e6b": {
+      "ProjectGuid": "a11ebae4-2294-4b12-ab85-53ea1e677e6b",
+      "DisplayName": "Tridle Executor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
